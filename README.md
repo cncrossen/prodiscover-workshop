@@ -1,6 +1,6 @@
 # Using ProDiscover
 ## A student run workshop for 44386-01 Digital Forensics
-####Covered Topics:
+#### Covered Topics:
 * Creating an image from a drive
 * ProDiscover search features
 * 
